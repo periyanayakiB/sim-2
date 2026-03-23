@@ -1,0 +1,187 @@
+# OCPP Multi-Session Simulator Architecture & Workflow
+
+This document details the exact execution flow of the highly concurrent OCPP 1.6J simulator (both the Node.js and Go variations). It includes the specific structured data payloads transacted during each sequence between the simulated Charge Points and the Central System (CSMS).
+
+## 1. Initial Connection & Readiness
+Upon booting, the standalone simulated Charge Point connects to the CSMS WebSocket interface and announces itself as `Available`.
+
+### A. WebSocket Dial
+**Endpoint:** `ws://13.202.14.45:9897/csms/{cpId}`
+**Subprotocols:** `ocpp1.6`
+
+### B. StatusNotification (Available)
+The simulator immediately dispatches its physical readiness to the CSMS.
+
+```json
+[
+  2,
+  "1",
+  "StatusNotification",
+  {
+    "connectorId": 1,
+    "errorCode": "NoError",
+    "status": "Available",
+    "timestamp": "2026-03-11T12:00:00Z"
+  }
+]
+```
+
+## 2. API Trigger & Transaction Start
+Because the simulator runs autonomously, it mocks the actions of an end-user standing at the charger by utilizing the CSMS REST API to force a session to begin.
+
+### A. API Remote Start Trigger (REST POST)
+**Endpoint**: `https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions`
+**Headers:** `Authorization: Bearer <JWT_TOKEN>`
+
+**Payload:**
+```json
+{
+  "charge_point_id": "100064",
+  "connector_id": 1,
+  "user_id": "f215643f-3109-470d-a9bc-da0058f23103+919629476633+CUSTOMER",
+  "source": "CSMS"
+}
+```
+
+### B. CSMS Responses with RemoteStartTransaction (WS)
+The API triggers the CSMS backend to send an OCPP `RemoteStartTransaction` down the WebSocket to the simulator.
+
+```json
+[
+  2,
+  "2",
+  "RemoteStartTransaction",
+  {
+    "connectorId": 1,
+    "idTag": "abc"
+  }
+]
+```
+
+The simulator immediately accepts this request with a `CALLRESULT`:
+```json
+[
+  3,
+  "2",
+  {
+    "status": "Accepted"
+  }
+]
+```
+
+### C. StartTransaction Initiation
+The simulator formally initiates the transaction.
+```json
+[
+  2,
+  "3",
+  "StartTransaction",
+  {
+    "connectorId": 1,
+    "idTag": "abc",
+    "meterStart": 1000,
+    "timestamp": "2026-03-11T12:00:02Z"
+  }
+]
+```
+
+The CSMS will reply (`CALLRESULT`) encompassing a globally unique `transactionId` (e.g., `12345`). The simulator then publishes a `Charging` status.
+```json
+[
+  2,
+  "4",
+  "StatusNotification",
+  {
+    "connectorId": 1,
+    "errorCode": "NoError",
+    "status": "Charging",
+    "timestamp": "2026-03-11T12:00:03Z"
+  }
+]
+```
+
+## 3. The Charging Loop (MeterValues)
+The simulator enters a loop (e.g., 20 ticks) spaced by simulated time intervals (e.g. 800ms) to trick the server into graphing active charging dynamics. It adds a mathematical block of Energy increment [(TargetLimitWh - 1000) / LoopCount](file:///Users/nirmalns/steam-a/simulator/sim-6.js#199-202) per tick.
+
+### Typical MeterValue Tick
+```json
+[
+  2,
+  "5",
+  "MeterValues",
+  {
+    "connectorId": 1,
+    "transactionId": 12345,
+    "meterValue": [
+      {
+        "timestamp": "2026-03-11T12:00:04Z",
+        "sampledValue": [
+          {
+            "context": "Sample.Periodic",
+            "measurand": "Current.Import",
+            "unit": "A",
+            "value": "94"
+          },
+          {
+            "context": "Sample.Periodic",
+            "format": "Raw",
+            "location": "Outlet",
+            "measurand": "Energy.Active.Import.Register",
+            "unit": "Wh",
+            "value": "1250"
+          },
+          {
+            "context": "Sample.Periodic",
+            "measurand": "Power.Active.Import",
+            "unit": "W",
+            "value": "35250"
+          },
+          {
+            "context": "Sample.Periodic",
+            "location": "EV",
+            "measurand": "SoC",
+            "unit": "Percent",
+            "value": "53.0"
+          },
+          {
+            "context": "Sample.Periodic",
+            "measurand": "Voltage",
+            "unit": "V",
+            "value": "375"
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+
+## 4. Completion & Finalization
+Once the sequence is functionally saturated, the simulator wraps up.
+
+### A. Local Backend Stop Request (Simulated Unplug)
+The simulator attempts a best-effort `POST` to the local development environment port 3000 to manually flush DB transactions synchronously:
+**URL:** `http://localhost:3000/stop`
+```json
+{
+  "charge_point_id": "100064",
+  "connector_id": 1
+}
+```
+
+### B. StopTransaction (WS)
+Finally, it closes the charging event directly with CSMS.
+```json
+[
+  2,
+  "26",
+  "StopTransaction",
+  {
+    "transactionId": 12345,
+    "meterStop": 24000,
+    "timestamp": "2026-03-11T12:00:20Z"
+  }
+]
+```
+
+The WebSocket cuts gracefully, and the simulator pushes the result payload to the local [report.json](file:///Users/nirmalns/steam-a/simulator/report.json) aggregator marking the specific SoC delta `51.0% → 91.0%` as a `SUCCESS`.

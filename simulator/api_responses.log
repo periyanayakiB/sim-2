@@ -1,0 +1,1469 @@
+[2026-03-11T09:11:33.549Z] CP: 500003 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.552Z] CP: test1cp01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.553Z] CP: 500006 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.557Z] CP: voc1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.557Z] CP: AM001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.558Z] CP: 100030 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.559Z] CP: 1132 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.567Z] CP: Q01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.587Z] CP: 100029 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.615Z] CP: 100090 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.633Z] CP: 100041 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.635Z] CP: Charger-13 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.638Z] CP: 500007 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.659Z] CP: S1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.705Z] CP: Charger-100 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.797Z] CP: 1007 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.857Z] CP: 500054 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:33.863Z] CP: 100037 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.022Z] CP: 100011 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.046Z] CP: AM002 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.066Z] CP: Charger-14 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.075Z] CP: 100082 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.096Z] CP: 100010 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.127Z] CP: 500040 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.216Z] CP: 100051 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.221Z] CP: 100031 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.245Z] CP: CP-1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.317Z] CP: T02 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.318Z] CP: 500012 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.327Z] CP: 500030 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.341Z] CP: 500005 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.352Z] CP: 100027 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.503Z] CP: 100014 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.562Z] CP: 500008 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.593Z] CP: 100032 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.600Z] CP: CP-2 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.630Z] CP: test1cp02 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.706Z] CP: asn | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.796Z] CP: 100064 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.820Z] CP: psg1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.824Z] CP: Charger-12 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:34.925Z] CP: 10000056 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.017Z] CP: 230 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.034Z] CP: 100054 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.046Z] CP: 1016 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.056Z] CP: 100055 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.159Z] CP: test data 162 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.163Z] CP: T01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.181Z] CP: 100035 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.183Z] CP: ZWIZ00001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.215Z] CP: 100017 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.247Z] CP: 100059 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.344Z] CP: 500001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.360Z] CP: 100098 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.364Z] CP: 100033 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.440Z] CP: 1001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.549Z] CP: 100006 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.616Z] CP: 100063 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.658Z] CP: 100056 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.694Z] CP: 500022 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.745Z] CP: 500010 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.768Z] CP: 500020 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.824Z] CP: 100081 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.864Z] CP: 100068 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.871Z] CP: 100057 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:35.938Z] CP: 500009 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.004Z] CP: 1099 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.046Z] CP: Test 1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.079Z] CP: 100073 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.219Z] CP: 500013 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.266Z] CP: 500015 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.319Z] CP: 100016 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.357Z] CP: 500049 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.460Z] CP: 100061 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.519Z] CP: 100065 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.592Z] CP: 100080 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.651Z] CP: 100023 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.659Z] CP: 100050 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.671Z] CP: 100047 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.750Z] CP: 100046 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.770Z] CP: 1031 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.827Z] CP: 100076 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.828Z] CP: 500017 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.946Z] CP: 100044 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.950Z] CP: 100053 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.952Z] CP: 100042 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:36.973Z] CP: 100062 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.001Z] CP: 500024 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.017Z] CP: 100048 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.103Z] CP: 100096 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.141Z] CP: 100074 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.143Z] CP: 100052 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.162Z] CP: 100100 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.265Z] CP: 100077 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.534Z] CP: 500021 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.553Z] CP: 500025 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.597Z] CP: 500016 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.652Z] CP: 1006 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.906Z] CP: 500018 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.938Z] CP: 1003 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:37.958Z] CP: 100092 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.028Z] CP: 100088 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.035Z] CP: 100067 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.061Z] CP: 100086 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.178Z] CP: 100087 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.205Z] CP: 100094 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.240Z] CP: 1011 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.298Z] CP: 500033 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.328Z] CP: 100083 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.329Z] CP: 500019 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.353Z] CP: 500034 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.368Z] CP: 500042 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.446Z] CP: 100058 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.511Z] CP: 100066 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.532Z] CP: 500047 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.602Z] CP: 1002 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.662Z] CP: 100099 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.734Z] CP: 500045 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.760Z] CP: 100091 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.763Z] CP: 1004 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.838Z] CP: 1027 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.860Z] CP: 1020 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.880Z] CP: 1018 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.881Z] CP: 1005 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.920Z] CP: 100012 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:38.935Z] CP: 500041 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.074Z] CP: 500052 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.098Z] CP: 500014 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.139Z] CP: 1021 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.269Z] CP: 100097 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.342Z] CP: 100028 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.364Z] CP: 1014 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.402Z] CP: 500038 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.523Z] CP: 500044 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.536Z] CP: 1010 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.562Z] CP: 1023 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.592Z] CP: a4 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.675Z] CP: 500039 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.676Z] CP: 1032 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.806Z] CP: 1012 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.824Z] CP: 500037 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.826Z] CP: 1017 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:39.872Z] CP: 100045 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.093Z] CP: 505 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.127Z] CP: 1030 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.271Z] CP: 500046 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.376Z] CP: 1009 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.451Z] CP: 500048 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.460Z] CP: 1013 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.523Z] CP: 500035 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.524Z] CP: 100004 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.645Z] CP: 5050 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.656Z] CP: 500056 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.775Z] CP: 100070 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.797Z] CP: 100039 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.827Z] CP: 100069 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.832Z] CP: 1022 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.975Z] CP: 1008 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.984Z] CP: 100084 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:40.995Z] CP: 1015 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.021Z] CP: 500050 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.179Z] CP: 9099 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.179Z] CP: 500026 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.231Z] CP: 500051 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.372Z] CP: 500028 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.375Z] CP: oct13cp1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.438Z] CP: 100034 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.473Z] CP: 100071 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.490Z] CP: 500029 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.538Z] CP: o6 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.538Z] CP: OCPI-04 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.678Z] CP: 500036 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.718Z] CP: 100020 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.719Z] CP: 1041 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.734Z] CP: 234 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.779Z] CP: db12 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.836Z] CP: 100072 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.935Z] CP: 100078 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.950Z] CP: Charger-6 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.989Z] CP: o17 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:41.994Z] CP: T123 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.006Z] CP: 1019 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.043Z] CP: 100089 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.127Z] CP: 500043 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.285Z] CP: 100005 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.333Z] CP: 1025 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.359Z] CP: OCT-1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.395Z] CP: 100079 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.496Z] CP: TP012 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.601Z] CP: ST01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.605Z] CP: 5178 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.640Z] CP: 100049 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.692Z] CP: 100085 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.711Z] CP: 222 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.762Z] CP: 100013 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.773Z] CP: BP | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.868Z] CP: 100036 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.969Z] CP: 606 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:42.983Z] CP: p1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.040Z] CP: j241 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.187Z] CP: oc24 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.267Z] CP: cpidxmain | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.314Z] CP: 5177 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.494Z] CP: 100015 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.583Z] CP: oct14 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.583Z] CP: 1201 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.610Z] CP: 100038 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.751Z] CP: A22 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.770Z] CP: 100043 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.830Z] CP: cpidxmain23 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.830Z] CP: j16 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.830Z] CP: 111120251 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.846Z] CP: 0004 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:43.992Z] CP: voc2 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.040Z] CP: oct30_2 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.088Z] CP: 13112025 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.089Z] CP: nov4 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.116Z] CP: oc7 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.141Z] CP: cpidnewstationcheck | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.322Z] CP: 1125 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.345Z] CP: 100008 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.449Z] CP: j24 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.468Z] CP: 107 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.583Z] CP: 105 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.586Z] CP: 1029 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.637Z] CP: j25 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.638Z] CP: 100093 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.664Z] CP: 1193 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.698Z] CP: testlive22 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.842Z] CP: 1263 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.855Z] CP: AP01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.862Z] CP: MINE1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.954Z] CP: 1202 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:44.967Z] CP: testlive | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.031Z] CP: 500027 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.039Z] CP: 1286 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.143Z] CP: 1203 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.298Z] CP: 5167 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.387Z] CP: test787 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.427Z] CP: oct30_1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.462Z] CP: FLX-01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.513Z] CP: 5168 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.531Z] CP: 1278 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.547Z] CP: test data 54 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.591Z] CP: 456 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.741Z] CP: uat-098 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.777Z] CP: 1289 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.790Z] CP: 1275 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.794Z] CP: T001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:45.998Z] CP: 6767 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.031Z] CP: 1182 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.049Z] CP: 1276 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.088Z] CP: test data 55 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.293Z] CP: uat dec ware | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.344Z] CP: cpidesxistingstationcheck | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.344Z] CP: 1026 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.500Z] CP: ABCtest | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.566Z] CP: test57 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.810Z] CP: TEST DATA 26DEC | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.886Z] CP: 500023 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.943Z] CP: 1267 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.944Z] CP: 1277 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.977Z] CP: 500053 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.979Z] CP: SteamC1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:46.993Z] CP: test5677 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.055Z] CP: 1028 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.062Z] CP: UATDEC29 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.084Z] CP: 100095 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.107Z] CP: 1264 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.123Z] CP: 500011 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.124Z] CP: 500057 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.157Z] CP: test data 73 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.250Z] CP: Steam-28 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.339Z] CP: Steam-25 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.346Z] CP: 100002 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.482Z] CP: janfive-comp-comp | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.519Z] CP: 1246 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.539Z] CP: yearend-com1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.542Z] CP: TP002 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.576Z] CP: 500058 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.577Z] CP: SAT01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.605Z] CP: 1024 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.633Z] CP: 100003 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.724Z] CP: Steam-27 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.729Z] CP: tet7876 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.731Z] CP: 100001 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.764Z] CP: 1100 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.774Z] CP: 333 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.775Z] CP: uat- | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.790Z] CP: 100026 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:47.920Z] CP: 100021 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.118Z] CP: Charger-2 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.173Z] CP: SteamC2 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.175Z] CP: 500055 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.382Z] CP: WEEK01 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.457Z] CP: Steam-29 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.567Z] CP: 100007 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.660Z] CP: 1040 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.777Z] CP: 100018 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.824Z] CP: 1266 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:48.842Z] CP: 1033 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.008Z] CP: 500004 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.036Z] CP: 100022 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.160Z] CP: test78797 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.695Z] CP: 1245 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.833Z] CP: test data 88 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.866Z] CP: Charger-1 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:49.953Z] CP: Charger-3 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:50.048Z] CP: Charger-7 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:11:50.396Z] CP: 444 | Status: 401 | Body: {"message":"Unauthorized", "code":401, "status":false }
+[2026-03-11T09:13:44.793Z] CP: 500001 | Status: 200 | Body: {"error":true,"message":"undefined"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500001","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:45.481Z] CP: test data 162 | Status: 200 | Body: {"error":true,"message":"Record with this 310 not Found in this saev_charge_station"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"test data 162","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:46.176Z] CP: test1cp01 | Status: 200 | Body: {"error":true,"message":"undefined"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"test1cp01","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:49.186Z] CP: 100090 | Status: 200 | Body: {"sessionId":284665,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100090","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:49.354Z] CP: 100037 | Status: 200 | Body: {"sessionId":284664,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100037","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:49.504Z] CP: 100031 | Status: 200 | Body: {"sessionId":284678,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100031","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:49.861Z] CP: 100014 | Status: 200 | Body: {"sessionId":284667,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100014","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:49.867Z] CP: 100011 | Status: 200 | Body: {"sessionId":284671,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100011","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:50.084Z] CP: T01 | Status: 200 | Body: {"sessionId":284669,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"T01","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:50.282Z] CP: 100051 | Status: 200 | Body: {"sessionId":284666,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100051","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:13:50.798Z] CP: 100041 | Status: 200 | Body: {"sessionId":284673,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100041","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:30.472Z] CP: 500001 | Status: 200 | Body: {"error":true,"message":"undefined"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500001","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:30.477Z] CP: test data 162 | Status: 200 | Body: {"error":true,"message":"Record with this 310 not Found in this saev_charge_station"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"test data 162","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:30.645Z] CP: test1cp01 | Status: 200 | Body: {"error":true,"message":"undefined"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"test1cp01","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:34.949Z] CP: AM001 | Status: 200 | Body: {"sessionId":284736,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"AM001","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:35.092Z] CP: 500007 | Status: 200 | Body: {"sessionId":284742,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500007","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:35.192Z] CP: 100011 | Status: 200 | Body: {"sessionId":284767,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100011","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:35.767Z] CP: 100051 | Status: 200 | Body: {"sessionId":284769,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100051","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:35.791Z] CP: 100029 | Status: 200 | Body: {"sessionId":284776,"status":"REQUESTED"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100029","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.078Z] CP: 100030 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100030","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.085Z] CP: 1132 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"1132","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.086Z] CP: 100090 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100090","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.126Z] CP: 100041 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100041","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.197Z] CP: psg1 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"psg1","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.247Z] CP: test1cp02 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"test1cp02","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.289Z] CP: 1007 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"1007","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.442Z] CP: 500054 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500054","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.448Z] CP: CP-2 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"CP-2","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.451Z] CP: asn | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"asn","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.459Z] CP: 10000056 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"10000056","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.573Z] CP: ZWIZ00001 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"ZWIZ00001","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.600Z] CP: CP-1 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"CP-1","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.704Z] CP: AM002 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"AM002","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.742Z] CP: 100031 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100031","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.786Z] CP: 100082 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100082","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.847Z] CP: T02 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"T02","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.854Z] CP: 500040 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500040","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.882Z] CP: Charger-100 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"Charger-100","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.925Z] CP: 100037 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100037","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.946Z] CP: 100098 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100098","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.949Z] CP: T01 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"T01","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.955Z] CP: Charger-12 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"Charger-12","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:58.970Z] CP: Q01 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"Q01","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.041Z] CP: 500003 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500003","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.047Z] CP: 100017 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100017","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.101Z] CP: S1 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"S1","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.142Z] CP: 1016 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"1016","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.146Z] CP: Charger-14 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"Charger-14","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.176Z] CP: 100064 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100064","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.197Z] CP: 500008 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500008","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.268Z] CP: 500012 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500012","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.292Z] CP: Charger-13 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"Charger-13","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.301Z] CP: 100014 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100014","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.398Z] CP: 100032 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100032","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.408Z] CP: voc1 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"voc1","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.494Z] CP: 100027 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100027","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.496Z] CP: 100035 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100035","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.549Z] CP: 500006 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500006","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.632Z] CP: 500030 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500030","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.684Z] CP: 500005 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"500005","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---
+[2026-03-11T09:17:59.864Z] CP: 100010 | Status: 504 | Body: {"message": "Endpoint request timed out"}
+---
+curl 'https://24m5tzr1wa.execute-api.ap-south-1.amazonaws.com/test/api/v1/charging-sessions' \
+  -H 'Content-Type: application/json' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,ta;q=0.8' \
+  -H 'origin: https://x-main.d33rile30xkzn5.amplifyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://x-main.d33rile30xkzn5.amplifyapp.com/' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36' \
+  -H 'Authorization: Bearer eyJraWQiOiJPaHQ0aG5MZmRlbmxpWjUxZno5YmhWSVRVRmJFcGxBY05MMUpNU2VGaCs0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIyMWIzMWQ5YS1jMDgxLTcwZjktMDJkZS0wOTg2N2JlMmMxYzEiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoLTEuYW1hem9uYXdzLmNvbVwvYXAtc291dGgtMV83bUVUU0cyRXMiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOnRydWUsImNvZ25pdG86dXNlcm5hbWUiOiJmMjE1NjQzZi0zMTA5LTQ3MGQtYTliYy1kYTAwNThmMjMxMDMiLCJvcmlnaW5fanRpIjoiZmRkOTU4YzEtMzE3OC00ODE2LTg2ZTktYTM4OTczMmYzYThkIiwiY3VzdG9tOnVzZXJUeXBlIjoiVEVOQU5UIiwiY3VzdG9tOnRlbmFudElkIjoiZjIxNTY0M2YtMzEwOS00NzBkLWE5YmMtZGEwMDU4ZjIzMTAzIiwiYXVkIjoiNDgycm4xOWlrZmc5aGMxZ2ExM3N0ZG9xbDIiLCJldmVudF9pZCI6ImRlOTFiZDY0LTA5OGEtNDJhMy05MWRiLWZiNDBlMjBmMzJhMiIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzczMjA5NzU1LCJ0ZW5hbnRJZCI6ImYyMTU2NDNmLTMxMDktNDcwZC1hOWJjLWRhMDA1OGYyMzEwMyIsIm5hbWUiOiJBcnZpbmQiLCJwaG9uZV9udW1iZXIiOiIrOTE5NTg1NDEyNjUxIiwiZXhwIjoxNzczMjIyNzAyLCJpYXQiOjE3NzMyMTkxMDIsImp0aSI6Ijc3Nzc0MGFlLTI0OTgtNDI3NC1iZDcxLTQ3OWE4ZGYwNmE4NCIsImVtYWlsIjoiYXJ2aW5kQHN0ZWFtLWEuY29tIn0.lOcYpsC99BgKaG5wcgWrG-fA0HFQKvGiEr5_0jHO1HhIhT2blIIjsw5AtfLlTCUQanKqbE2tk0hFRP-lwaMy_9arLvLpTTVBd5yJlfrQYk_PEADcI1zztf15ooltWdxu39nrb9QzrWKVXl0epPNVBpYkVgiMuXymtaK4Cz0g-tfrTUv6QRzxH4H0lM-68NCGh5-iJ53DvwJXunuxmYI4W7xdh0msVKoItqjN3GDi1q9f52Rh3wp_68B1C0wsbIp2QR_MHX0nZtOJx-wmo49Qcnk5BCI2e1cBGQGqHNusa7btGiCDAf1dFeuQGAT4CZLmKTgMtDRcKcQPdQZibq_d_A' \
+  --data-raw '{"charge_point_id":"100010","connector_id":1,"user_id":"f215643f-3109-470d-a9bc-da0058f23103+919842231047+CUSTOMER","source":"CSMS"}'
+---

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-20T11:17:31.436Z",
+  "summary": {
+    "total": 2,
+    "success": 2,
+    "failure": 0
+  },
+  "sessions": [
+    {
+      "cpId": "gold3",
+      "socRange": "51.0% → 51.0%",
+      "result": "SUCCESS",
+      "error": null
+    },
+    {
+      "cpId": "MINEE",
+      "socRange": "51.0% → 51.0%",
+      "result": "SUCCESS",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "simulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "multi:single-terminal": "node ../run-single-terminal.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "node-fetch": "^2.7.0",
+    "uuid": "^13.0.0",
+    "ws": "^8.19.0"
+  }
+}
