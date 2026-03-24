@@ -77,14 +77,14 @@ async function startFromUser(req, res) {
     console.log(`[Server] Received start request for CP ID: ${chargePointId}, Connector: ${connectorId}, User: ${userId}`);
 
     try {
+        console.log(`[Server] Triggering remote start for CP ID: ${chargePointId}, Connector: ${connectorId}, User: ${userId}`);
         const remoteStartResult = await triggerRemoteStart({
             chargePointId,
             connectorId,
             userId,
             source
         });
-
-        return res.json({
+        console.log('[Server] Remote start result:', JSON.stringify(remoteStartResult, null, 2));        return res.json({
             success: true,
             message: `Start processed for CP ${chargePointId}:${connectorId}.`,
             remoteStart: {
@@ -93,6 +93,7 @@ async function startFromUser(req, res) {
             },
             timestamp: new Date().toISOString()
         });
+        console.log(`[Server] Response sent for CP ${chargePointId}:${connectorId}.`);
     } catch (error) {
         console.error(`[Server] Error in /start route for ${chargePointId}:`, error.stack);
         return res.status(500).json({

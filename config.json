@@ -3,12 +3,12 @@
     "charge_point_id": "MINEE",
     "connectors_count": 1,
     "peak_power": "1238",
-    "vid_tag": "VID:3QW1234567890"
+    "vid_tag": "VID:MINEECHARGER1234"
   },
   {
     "charge_point_id": "gold3",
     "connectors_count": 1,
     "peak_power": "7",
-    "vid_tag": "VID:4QW1234567890"
+    "vid_tag": "VID:GOLD3CHARGER1234"
   }
 ]

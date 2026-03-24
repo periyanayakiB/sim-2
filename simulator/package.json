@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "multi:single-terminal": "node ../run-single-terminal.js"
+    "multi:single-terminal": "node ../run-single-terminal.js",
+    "dual-gun": "node dual-gun.js",
+    "dual-gun:single-terminal": "node ../run-single-terminal.js --sim=dual-gun"
   },
   "keywords": [],
   "author": "",
